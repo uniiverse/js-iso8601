@@ -1,0 +1,12 @@
+{
+  "name": "iso8601",
+  "version": "0.0.1",
+  "main": "iso8601.js",
+  "ignore": [
+    ".git",
+    ".gitmodules",
+    "tests/*",
+    "bower.json",
+    "README.md"
+  ]
+}
